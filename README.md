@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=blur&height=500&color=0:B0C4DE,100:4682B4&text=open-filer&section=header&textBg=false&fontColor=708090&desc=Machine%20Learning%20||%20Modern%20Web%20||%20Cloud-Native%20Apps&rotate=-2](https://capsule-render.vercel.app/api?type=blur&height=500&color=0:0F0C29,100:302B63&text=open-filer&section=header&textBg=false&fontColor=F8F8FF&desc=Machine%20Learning%20||%20Modern%20Web%20||%20Cloud-Native%20Apps&rotate=-2)" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=500&color=0:0F0C29,100:302B63&text=open-filer&section=header&textBg=false&fontColor=F8F8FF&desc=Machine%20Learning%20||%20Modern%20Web%20||%20Cloud-Native%20Apps&rotate=-2" width="100%" />
    
   <br>
   
