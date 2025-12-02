@@ -10,9 +10,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           github_user_name: excusez-moi
           outputs: |
