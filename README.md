@@ -1,22 +1,11 @@
-<!-- Banner Image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90" />
 </p>
 
-<!-- Social Icons -->
 <p align="center">
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
-
----
-### L Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake.svg" />
-</picture>
 
 ---
 
@@ -30,7 +19,7 @@
 
 ---
 
-### 💻 My Tech Stack ( the stack is about top fall )
+### 💻 My Tech Stack ( the stack is about to fall )
 
 <table>
   <tr>
@@ -100,6 +89,16 @@
     </td>
   </tr>
 </table>
+
+---
+
+###  Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/excusez-moi/excusez-moi/output/github-snake.svg" />
+</picture>
 
 ---
 
